@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stemers-frontend/static/css/main.cade3676.css",
+    "main.js": "/stemers-frontend/static/js/main.124b80fb.js",
+    "static/js/787.ed5cf864.chunk.js": "/stemers-frontend/static/js/787.ed5cf864.chunk.js",
+    "index.html": "/stemers-frontend/index.html",
+    "main.cade3676.css.map": "/stemers-frontend/static/css/main.cade3676.css.map",
+    "main.124b80fb.js.map": "/stemers-frontend/static/js/main.124b80fb.js.map",
+    "787.ed5cf864.chunk.js.map": "/stemers-frontend/static/js/787.ed5cf864.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cade3676.css",
+    "static/js/main.124b80fb.js"
+  ]
+}
