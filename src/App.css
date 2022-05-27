@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.App h2 {
+  margin: 100px;
+  padding: 100px;
+  border: 2px solid silver;
+  border-radius: 10px;
+}
